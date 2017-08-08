@@ -1,0 +1,9 @@
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\bin\Debug\netcoreapp1.1\MersenneTwister.deps.json
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\bin\Debug\netcoreapp1.1\MersenneTwister.runtimeconfig.json
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\bin\Debug\netcoreapp1.1\MersenneTwister.runtimeconfig.dev.json
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\obj\Debug\netcoreapp1.1\MersenneTwister.csprojResolveAssemblyReference.cache
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\obj\Debug\netcoreapp1.1\MersenneTwister.AssemblyInfo.cs
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\bin\Debug\netcoreapp1.1\MersenneTwister.dll
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\bin\Debug\netcoreapp1.1\MersenneTwister.pdb
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\obj\Debug\netcoreapp1.1\MersenneTwister.dll
+c:\users\tomo8\documents\visual studio 2017\Projects\MersenneTwister\MersenneTwister\obj\Debug\netcoreapp1.1\MersenneTwister.pdb
